@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random_Generator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="min_value_label">Minimum</string>
+    <string name="max_value_label">Maximum</string>
+    <string name="result_label">Result</string>
+    <string name="random_button">Generate</string>
+    <string name="error_parse">ERROR! Incorrect min or max value</string>
+    <string name="error_generate">ERROR! Maximum value should be larger than minimum</string>
+    <string name="quantity_label">Quantity:</string>
+    <string name="not_repeating_check_box">Not repeating numbers</string>
+    <string name="error_quantity_generate">"ERROR! Cannot generate "</string>
+    <string name="decimal_places_label">Decimal places</string>
+    <string name="copy_toast">Copied!</string>
+    <string name="copy_error">ERROR! Unable to copy</string>
+    <string name="copy_button">Copy</string>
+</resources>
